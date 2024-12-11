@@ -1,2 +1,2 @@
 # Suroi-Surviv-Sounds
-A project that changes Suroi.io's assets to Surviv.io's sounds.
+Suroi Surviv Sounds is a project that replaces Suroi.io's assets with Surviv.io's. If you encounter any errors or bugs, please contact me in the Suroi.io Discord Server.
