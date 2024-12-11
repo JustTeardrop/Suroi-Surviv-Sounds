@@ -6,10 +6,3 @@ Suroi Surviv Sounds is a project that replaces Suroi.io's assets with Surviv.io'
 2. Extract the zip file you downloaded.
 3. In your browser, open extensions.
 4. Click "Load unpacked extension" then select the folder.
-
-# Changelog
-### Update 1.0 [2024-12-10]
-- Released
-  - Replaced background
-  - Replaced many sounds
-  - Changed fonts
